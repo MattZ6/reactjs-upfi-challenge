@@ -1,7 +1,22 @@
 {
-  "name": "desafio",
-  "version": "0.1.0",
+  "name": "reactjs-upfi-challenge",
+  "version": "0.0.0",
+  "description": "🔥 Código de resolução do desafio de upload de imagens da trilha de React JS — Ignite",
+  "license": "MIT",
   "private": true,
+  "author": {
+    "name": "Matheus Felipe Zanin",
+    "email": "matt_z6@hotmail.com",
+    "url": "https://github.com/MattZ6"
+  },
+  "repository": "https://github.com/MattZ6/reactjs-upfi-challenge",
+  "homepage": "https://github.com/MattZ6/reactjs-upfi-challenge",
+  "bugs": "https://github.com/MattZ6/reactjs-upfi-challenge/issues",
+  "contributors": [{
+    "name": "Matheus Felipe Zanin",
+    "email": "matt_z6@hotmail.com",
+    "url": "https://github.com/MattZ6"
+  }],
   "scripts": {
     "dev": "next dev",
     "build": "next build",
